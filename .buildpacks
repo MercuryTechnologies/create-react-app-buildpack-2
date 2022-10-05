@@ -1,4 +1,4 @@
-https://github.com/heroku/heroku-buildpack-nodejs.git#688a25e3fb181e9064799067228321a20b240538
+https://github.com/MercuryTechnologies/heroku-buildpack-nodejs.git#8ae428229d4fe998c1504475d2c71f4dcb5cd85e
 https://github.com/mars/create-react-app-inner-buildpack.git#cb0c9d2fdefaa50eb294a6a0999d5ab3f0b83271
 https://github.com/heroku/heroku-buildpack-static.git#21c1f5175186b70cf247384fd0bf922504b419be
 https://github.com/ekilah/heroku-buildpack-post-build-clean.git#48a468eb46b5ff6f458f3445ac38f699e19bcf43
